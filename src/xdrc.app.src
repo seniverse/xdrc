@@ -1,0 +1,11 @@
+{application, xdrc,
+ [
+  {description, "compiler of eXternal Data Representation (XDR) language [RFC4506] and ONC Remote Procedure Call (RPC) language [RFC5531]"},
+  {vsn, "git"},
+  {registered, []},
+  {applications, []},
+  {env, []},
+  {licenses, ["Apache"]},
+  {links,[{"GitHub","https://github.com/seniverse/xdrc"}]}
+ ]
+}.

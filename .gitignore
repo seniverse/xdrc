@@ -1,0 +1,5 @@
+_build/
+rebar.lock
+*~
+src/xdr_lexer.erl
+src/xdr_parser.erl
